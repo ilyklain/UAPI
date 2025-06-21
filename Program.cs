@@ -1,3 +1,4 @@
+using UsuariosAPI.Services;
 using Microsoft.EntityFrameworkCore;
 using UsuariosAPI.Data;
 using UsuariosAPI.Models;
