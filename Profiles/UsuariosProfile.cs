@@ -8,6 +8,7 @@ namespace UsuariosAPI.Profiles
 {
     /// <summary>
     /// De Usuario para DTO y viceversa
+    /// Hola mundo.
     /// </summary>
     public class UsuariosProfile : Profile
     {
